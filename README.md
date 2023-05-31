@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I am new to git world... Just tring to explore more oportunites.
 <!--
 **vivek-1989/vivek-1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
